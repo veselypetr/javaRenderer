@@ -1,7 +1,8 @@
-WASD ovládá umístění pozorovatele.
-Pohyb myši při držení levého tlačítka myši pohybuje kamerou.
-Levý Shift a Control pohybuje kameru nahoru a dolů.
-F mění shader modelu.
-P zastaví animaci.
-C mění mód vertikální synchronizace s full refresh na half refresh (30-60 fps na standartním monitoru).
+Small app that displays textured and (programmatically) shaded object created in Java and OpenGL using LWJGL.
 
+WASD moves the position of the viewer.
+Mouse movement with held left mouse button moves the camera.
+Levý Shift and Control moves the camera up and down.
+F changes the shader the model uses.
+P stops the animation.
+C changes vsync mode.
